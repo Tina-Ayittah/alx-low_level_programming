@@ -1,1 +1,1 @@
-ntroduction to C programming C-Hello, World
+Introduction to C programming; C-Hello World
